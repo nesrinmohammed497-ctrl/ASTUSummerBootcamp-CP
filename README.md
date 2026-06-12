@@ -15,8 +15,13 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3895-count-digit-appearances](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Math
+|  |
+| ------- |
+| [3895-count-digit-appearances](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
