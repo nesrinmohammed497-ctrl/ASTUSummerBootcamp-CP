@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3895-count-digit-appearances](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Simulation
@@ -31,4 +32,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
