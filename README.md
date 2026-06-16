@@ -4,10 +4,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
@@ -18,6 +20,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3895-count-digit-appearances](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Simulation
@@ -38,4 +41,8 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
