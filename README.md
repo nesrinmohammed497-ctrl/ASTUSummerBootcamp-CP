@@ -22,6 +22,7 @@
 | [0035-search-insert-position](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0832-flipping-an-image](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3895-count-digit-appearances](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
@@ -73,4 +75,5 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
