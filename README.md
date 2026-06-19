@@ -35,6 +35,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3895-count-digit-appearances](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Simulation
@@ -74,6 +75,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@
 | [0463-island-perimeter](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Depth-First Search
 |  |
 | ------- |
