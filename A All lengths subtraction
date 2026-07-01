@@ -1,0 +1,22 @@
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    a = list(map(int,input().split()))
+    possible = True    
+    for k in range(n, 0, -1):
+        found = False        
+        for i in range(n - k + 1):
+            ok = True
+            for j in range(i, i + k):
+                if a[j] <= 0:
+                    ok = False
+                    break            
+            if ok:
+                for j in range(i, i + k):
+                    a[j] -= 1
+                found = True
+                break        
+        if not found:
+            possible = False
+            break    
+    print("YES" if possible else "NO")
