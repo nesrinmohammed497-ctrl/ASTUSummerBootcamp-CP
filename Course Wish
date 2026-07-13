@@ -1,0 +1,39 @@
+t = int(input())
+for _ in range(t):
+    n, k = map(int, input().split())
+    a = list(map(int, input().split()))
+    b = list(map(int, input().split()))
+    cnt = [0] * (k + 2)
+    for x in b:
+        if x <= k:
+            cnt[x] += 1
+    ans = []
+    while True:
+        moved = False
+        for i in range(n):
+            if b[i] == k + 1:
+                continue
+            lvl = b[i]
+            cnt[lvl] -= 1
+            ok = True
+            for j in range(lvl + 1, k + 1):
+                if cnt[j] + 1 > a[j - 1]:
+                    ok = False
+                    break
+            if ok:
+                b[i] += 1
+                if b[i] <= k:
+                    cnt[b[i]] += 1
+                ans.append(i + 1)
+                moved = True
+                break
+            else:
+                cnt[lvl] += 1
+        if all(x == k + 1 for x in b):
+            print(len(ans))
+            if ans:
+                print(*ans)
+            break
+        if not moved:
+            print(-1)
+            break
