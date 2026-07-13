@@ -1,0 +1,13 @@
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    a=list(map(int,input().split()))
+    prefix = 0
+    best = a[0]
+    b=[]
+    for i in range(n):
+        prefix += a[i]
+        avg = prefix // (i+1)
+        best = min(best, avg)
+        b.append(best)
+    print(' '.join(map(str,b)))
