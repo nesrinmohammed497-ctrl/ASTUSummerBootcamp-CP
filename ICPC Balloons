@@ -1,0 +1,9 @@
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    a=list(map(str,input().split()))
+    count=[]
+    for i in a[0]:
+        if i not in count:
+            count.append(i)
+    print(n+len(count))
