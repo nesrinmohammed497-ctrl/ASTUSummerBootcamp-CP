@@ -1,0 +1,12 @@
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    a = list(map(int, input().split()))
+    seen = set()
+    for i in range(n - 1, -1, -1):
+        if a[i] in seen:
+            print(i + 1)
+            break
+        seen.add(a[i])
+    else:
+        print(0)
