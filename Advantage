@@ -1,0 +1,13 @@
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    s=list(map(int,input().split()))
+    m=sorted(s)[-1]
+    k=sorted(s)[-2]
+    for i in range(n):
+        if s[i]==m:
+            s[i]-=k
+        else:
+            s[i]-=m
+
+    print (" ".join(map(str,s)))
