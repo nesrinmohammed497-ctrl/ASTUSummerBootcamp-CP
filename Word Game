@@ -1,0 +1,32 @@
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    p1 = input().split()
+    p2 = input().split()
+    p3 = input().split()
+    freq = {}
+    for i in p1:
+        freq[i]=freq.get(i,0)+1
+    for i in p2:
+        freq[i]=freq.get(i,0)+1
+    for i in p3:
+        freq[i]=freq.get(i,0)+1
+    s1 = s2 = s3 =0
+    for i in p1:
+        if freq[i]==1:
+            s1+=3
+        elif freq[i]==2:
+            s1+=1
+    for i in p2:
+        if freq[i]==1:
+            s2+=3
+        elif freq[i]==2:
+            s2+=1
+    for i in p3:
+        if freq[i]==1:
+            s3+=3
+        elif freq[i]==2:
+            s3+=1
+    print (s1 , s2 , s3 )
+        
+
