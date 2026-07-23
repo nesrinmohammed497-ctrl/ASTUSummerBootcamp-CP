@@ -1,0 +1,13 @@
+t=int(input())
+for _ in range(t):
+   k=list(map(int,input().split()))
+   a=list(map(int,input().split()))
+   n=list(map(int,input().split()))
+   m=min(a)
+   ans=[]
+   for i in range(len(n)):
+        if m>n[i]:
+            ans.append(n[i])
+        else:
+            ans.append(m-1)
+   print(' '.join(map(str, ans)))
