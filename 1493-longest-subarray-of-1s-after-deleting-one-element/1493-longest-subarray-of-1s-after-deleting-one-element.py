@@ -5,8 +5,8 @@ class Solution(object):
         :rtype: int
         """
         w = 0     
-        f = 0      # number of zeros in window
-        o = 0      # answer
+        f = 0    
+        o = 0     
         for i in range(len(nums)):
             if nums[i] == 0:
                 f += 1
