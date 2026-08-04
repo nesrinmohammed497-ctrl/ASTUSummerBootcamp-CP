@@ -50,6 +50,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3206-alternating-groups-i](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3895-count-digit-appearances](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Simulation
@@ -154,6 +155,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3206-alternating-groups-i](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
