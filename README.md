@@ -21,6 +21,7 @@
 | [0917-reverse-only-letters](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0917-reverse-only-letters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
@@ -156,6 +157,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3206-alternating-groups-i](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3206-alternating-groups-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
