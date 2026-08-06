@@ -44,6 +44,7 @@
 | [0867-transpose-matrix](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -79,6 +80,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0917-reverse-only-letters) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -91,6 +93,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -115,6 +118,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +130,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,4 +180,8 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/nesrinmohammed497-ctrl/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
