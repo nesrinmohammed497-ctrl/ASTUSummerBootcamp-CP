@@ -1,0 +1,40 @@
+import sys
+def solve():
+    input_data = sys.stdin.read().split()
+    if not input_data:
+        return   
+    iterator = iter(input_data)
+    num_test_cases = int(next(iterator))
+    output = []    
+    for _ in range(num_test_cases):
+        n = int(next(iterator))
+        a = [int(next(iterator)) for _ in range(n)]
+        left_pref = [0] * (n + 1)
+        for i in range(n):
+            val = 1 if a[i] == 1 else -1
+            left_pref[i + 1] = left_pref[i] + val
+        mid_pref = [0] * (n + 1)
+        for i in range(n):
+            val = 1 if a[i] != 3 else -1
+            mid_pref[i + 1] = mid_pref[i] + val
+        max_mid_suff = [-float('inf')] * (n + 1)
+        current_max = -float('inf')
+        for j in range(n - 2, 0, -1):
+            if mid_pref[j + 1] > current_max:
+                current_max = mid_pref[j + 1]
+            max_mid_suff[j] = current_max            
+        possible = False
+        for i in range(n - 2):
+            if left_pref[i + 1] >= 0:
+                if max_mid_suff[i + 1] >= mid_pref[i + 1]:
+                    possible = True
+                    break                  
+        if possible:
+            output.append("YES")
+        else:
+            output.append("NO")
+            
+    print('\n'.join(output))
+
+if __name__ == '__main__':
+    solve()
